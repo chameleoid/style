@@ -3,6 +3,10 @@ Chameleoid Styleguide
 To help ensure a unified style across Chameleoid projects, we've prepared the
 following styleguide.
 
+_Note: In this repo we also include a number of resources that are often used
+across projects, such a license and local vimrc.  These should be used where
+applicable_
+
 ### Overview
 A similar style should be preserved across most languages, here's a general
 overview of what we use:
