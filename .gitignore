@@ -1,1 +1,10 @@
+*.log
+*~
+
+node_modules
+vendor
+
+docs
+tmp
+
 _vimrc_local.vim
