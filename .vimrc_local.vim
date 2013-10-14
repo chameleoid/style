@@ -24,6 +24,10 @@ if bufname("%") =~? '\.jshintrc$'
 	setl filetype=javascript
 endif
 
+if bufname("%") =~? '\.md$'
+	setl filetype=markdown
+endif
+
 if &filetype == 'yaml'
 	setl expandtab
 	setl shiftwidth=8 tabstop=8
