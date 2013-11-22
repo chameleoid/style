@@ -39,7 +39,9 @@ When in doubt, try to keep the same style as the surrounding code, or contact
   1. [JSON](#json)
 4. [Markdown](#markdown)
 5. PHP
-6. [YAML](#yaml)
+6. Shell
+  1. Zsh
+7. [YAML](#yaml)
 
 
 ## Javascript
