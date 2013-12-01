@@ -2,11 +2,11 @@ Project Name Here [![Builds][]][travis] [![Deps][]][gemnasium] [![Donations][]][
 =================
 Project description here
 
-[Builds]: https://travis-ci.org/chameleoid/PROJECT.png "Build Status"
+[Builds]: http://img.shields.io/travis-ci/chameleoid/PROJECT.png "Build Status"
 [travis]: https://travis-ci.org/chameleoid/PROJECT
 [Deps]: https://gemnasium.com/chameleoid/PROJECT.png "Dependency Status"
 [gemnasium]: https://gemnasium.com/chameleoid/PROJECT
-[Donations]: http://badgr.co/gittip/chameleoid.png
+[Donations]: http://img.shields.io/gittip/chameleoid.png
 [gittip]: https://www.gittip.com/chameleoid/
 
 
@@ -37,4 +37,5 @@ _(Nothing yet)_
 
 
 ## License
+Copyright (c) 2013
 Licensed under the MPL license.
