@@ -16,6 +16,8 @@ overview of what we use:
   * In languages that do not allow tabs, we'll generally use 8-space indentation
 - Curly braces should not be on their own line in function definition
 - Most projects will be using [Grunt][] for linting and testing
+- Generated files do not need to conform to this document (composer.json,
+  bower.json, package.json, minified files, etc)
 
 [Smart tabs]: http://vim.wikia.com/wiki/Indent_with_tabs,_align_with_spaces#Smart_tabs
 [Grunt]: http://gruntjs.com/
