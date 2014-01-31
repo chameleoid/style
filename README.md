@@ -22,9 +22,14 @@ overview of what we use:
 [Smart tabs]: http://vim.wikia.com/wiki/Indent_with_tabs,_align_with_spaces#Smart_tabs
 [Grunt]: http://gruntjs.com/
 
-### Local .vimrc
-For Vim users, we've prepared a `.vimrc_local.vim` which we recommend [taking a
-look at](.vimrc_local.vim)
+### Editor settings
+We've included both a `.editorconfig` and `.vimrc_local.vim`.  Feel free to take
+a look at [both](.editorconfig) of [them](.vimrc_local.vim) to see what they
+provide.  They both do different things.
+
+- [EditorConfig](http://editorconfig.org/)
+- [Local vimrc](https://code.google.com/p/lh-vim/source/browse/misc/trunk/plugin/local_vimrc.vim)
+
 
 ### Contact
 When in doubt, try to keep the same style as the surrounding code, or contact
