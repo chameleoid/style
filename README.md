@@ -4,8 +4,8 @@ To help ensure a unified style across Chameleoid projects, we've prepared the
 following styleguide.
 
 _Note: In this repo we also include a number of resources that are often used
-across projects, such a license, short contributing guide, skeleton readme, and
-local vimrc.  These should be used where applicable._
+across projects, such a license, short contributing guide, readme, and local
+vimrc.  These should be used where applicable._
 
 ### Overview
 A similar style should be preserved across most languages, here's a general
