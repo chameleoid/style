@@ -37,5 +37,5 @@ _(Nothing yet)_
 
 
 ## License
-Copyright (c) 2013
+Copyright (c) 2014
 Licensed under the MPL license.
