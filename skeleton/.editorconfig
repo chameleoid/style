@@ -13,6 +13,9 @@ curly_bracket_next_line = false
 spaces_around_operators = true
 spaces_around_brackets = false
 
+end_of_line = lf
+insert_final_newline = true
+
 [*.md]
 indent_style = space
 indent_size = 2
