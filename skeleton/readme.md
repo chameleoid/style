@@ -1,5 +1,5 @@
-Project Name Here [![Builds][]][travis] [![Deps][]][gemnasium] [![Donations][]][gittip]
-=================
+ Project Name Here [![Builds][]][travis] [![Deps][]][gemnasium] [![Donations][]][gittip]
+===================
 Project description here
 
 [Builds]: http://img.shields.io/travis-ci/chameleoid/PROJECT.png "Build Status"

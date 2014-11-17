@@ -1,7 +1,7 @@
 {
 	"camelcase": true,
-	"curly": false,
-	"eqeqeq": false,
+	"curly": true,
+	"eqeqeq": true,
 	"immed": true,
 	"latedef": true,
 	"newcap": true,
@@ -19,14 +19,5 @@
 	"sub": true,
 
 	"browser": true,
-	"node": true,
-
-	"globals": {
-		"describe": false,
-		"it": false,
-		"before": false,
-		"after": false,
-		"beforeEach": false,
-		"afterEach": false
-	}
+	"node": true
 }
