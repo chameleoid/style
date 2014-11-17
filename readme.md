@@ -4,8 +4,10 @@ To help ensure a unified style across Chameleoid projects, we've prepared the
 following styleguide.
 
 _Note: In this repo we also include a number of resources that are often used
-across projects, such a license, short contributing guide, readme, and local
-vimrc.  These should be used where applicable._
+across projects, such a license, short contributing guide, readme, and
+[editor config][].  These should be used where applicable._
+
+[editor config]: http://editorconfig.org/
 
 ### Overview
 A similar style should be preserved across most languages, here's a general
@@ -15,12 +17,13 @@ overview of what we use:
   * 8-wide tabs recommended, but not required
   * In languages that do not allow tabs, we'll generally use 8-space indentation
 - Curly braces should not be on their own line in function definition
-- Most projects will be using [Grunt][] for linting and testing
+- Most projects will be using [Gulp][] for linting and testing
 - Generated files do not need to conform to this document (composer.json,
   bower.json, package.json, minified files, etc)
+- When in doubt, try to keep the same style as surrounding code.
 
 [Smart tabs]: http://vim.wikia.com/wiki/Indent_with_tabs,_align_with_spaces#Smart_tabs
-[Grunt]: http://gruntjs.com/
+[Gulp]: http://gulpjs.com/
 
 ### Editor settings
 We've included both a `.editorconfig` and `.vimrc_local.vim`.  Feel free to take
@@ -32,8 +35,11 @@ provide.  They both do different things.
 
 
 ### Contact
-When in doubt, try to keep the same style as the surrounding code, or contact
-@rummik on Freenode in #chameleoid.
+We are located on [Freenode][] in [#chameleoid][IRC] (look for @rummik).  You
+can also email us at <contact@chameleoid.com>.
+
+[Freenode]: https://freenode.net
+[IRC]: http://webchat.freenode.net/?channels=%23chameleoid
 
 ### Index
 1. CSS
