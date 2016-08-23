@@ -1,4 +1,4 @@
- Project Name Here [![Builds][]][travis] [![Deps][]][gemnasium] [![Donations][]][gratipay]
+ Project Name Here [![Builds][]][travis] [![Deps][]][gemnasium]
 ===================
 Project description here
 
@@ -6,8 +6,6 @@ Project description here
 [travis]: https://travis-ci.org/chameleoid/PROJECT
 [Deps]: https://gemnasium.com/chameleoid/PROJECT.png "Dependency Status"
 [gemnasium]: https://gemnasium.com/chameleoid/PROJECT
-[Donations]: http://img.shields.io/gratipay/chameleoid.png
-[gratipay]: https://www.gratipay.com/chameleoid/ "Gratipay"
 
 
 ## Getting Started
